@@ -15,9 +15,11 @@ For communication between 2 fragments it uses Fragment Result Listener as a 2 wa
 
 
 
-## Demo
+## Demo Phone
 
 ![JetPack Demo Phone](demo/test4.gif)
 
+
+## Demo Tablet
 
 ![JetPack Demo  Tablet](demo/test3.gif)
