@@ -17,5 +17,7 @@ For communication between 2 fragments it uses Fragment Result Listener as a 2 wa
 
 ## Demo
 
-![JetPack Demo](demo/test4.gif)
-![JetPack Demo](demo/test3.gif)
+![JetPack Demo Phone](demo/test4.gif)
+
+
+![JetPack Demo  Tablet](demo/test3.gif)
